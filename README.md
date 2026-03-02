@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | ML Engineer | MS @ UT Arlington</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Machine+Learning+Enthusiast;30M%2B+Records+Handled;LightGBM+%7C+Random+Forest;Power+BI+Developer;Exploring+Generative+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Machine+Learning+Enthusiast;Power+BI+Developer;Exploring+Generative+AI,Electronics+Engineer;3+Years+of+IT+Experience" />
 </p>
 
 ---
@@ -14,8 +14,8 @@
 
 - 🎓 MS in Data Science (2024–2026)  
 - 💼 3+ Years Enterprise Experience (Infosys & TCS)  
-- 📊 Worked with 30M+ financial transaction records  
-- 🤖 Built ML models (LightGBM, Random Forest – 82% Accuracy)  
+- 📊 Developed Dashboards adn performed data analysis 
+- 🤖 Built ML and Statistical models 
 - 🌩 Exploring Generative AI, LLMs & Cloud Computing  
 
 ---
