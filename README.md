@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAiSwHy/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="250"/>
 </p>
 
 - 🎓 MS in Data Science (2024–2026)  
