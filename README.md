@@ -9,12 +9,12 @@
 
 ## 💫 About Me
 <p align="center">
-<img src="https://media.giphy.com/media/l4pTdcifwxR6bJdwI/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAiSwHy/giphy.gif" width="250"/>
 </p>
 
 - 🎓 MS in Data Science (2024–2026)  
 - 💼 3+ Years Enterprise Experience (Infosys & TCS)  
-- 📊 Developed Dashboards adn performed data analysis 
+- 📊 Developed Dashboards and performed data analysis 
 - 🤖 Built ML and Statistical models 
 - 🌩 Exploring Generative AI, LLMs & Cloud Computing  
 
