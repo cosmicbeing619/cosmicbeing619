@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Regression%20%7C%20Ensemble-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Regression-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative%20AI-LLM-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud-Foundations-orange?style=for-the-badge" />
