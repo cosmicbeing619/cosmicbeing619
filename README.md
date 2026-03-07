@@ -41,8 +41,4 @@
   <a href="mailto:kxm3682@mavs.uta.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
----
 
-<p align="center">
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="400"/>
-</p>
