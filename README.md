@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | ML Engineer | MS @ UT Arlington</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Machine+Learning+Enthusiast;Power+BI+Developer;Exploring+Generative+AI,Electronics+Engineer;3+Years+of+IT+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Machine+Learning+Enthusiast;Power+BI+Developer;Generative+AI;Electronics+Engineer;3+Years+of+IT+Experience" />
 </p>
 
 ---
