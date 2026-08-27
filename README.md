@@ -21,9 +21,6 @@
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,linux,git,github,jupyter,tableau,powerbi,streamlit" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Regression-green?style=for-the-badge" />
