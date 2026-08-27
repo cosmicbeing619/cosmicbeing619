@@ -34,11 +34,15 @@
 
 ---
 
+<div align="center">
+
+![snake gif](https://github.com/cosmicbeing619/cosmicbeing619/blob/output/github-snake-dark.svg)
+
+</div>
 
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kumarmantha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:kxm3682@mavs.uta.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
-
 
